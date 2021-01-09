@@ -26,14 +26,6 @@ import re
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
-    "proceeding": {
-        "file" : "proceedings.bib",
-        "venuekey": "booktitle",
-        "venue-pretext": "In the proceedings of ",
-        "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
-        
-    },
     "journal":{
         "file": "pubs.bib",
         "venuekey" : "journal",
@@ -91,6 +83,7 @@ for pubsource in publist:
 
             url_slug = re.sub("\\[.*\\]|[^a-zA-Z0-9_-]", "", clean_title)
             url_slug = url_slug.replace("--","-")
+            url_slug = url_slug[:75] # shorten lengthy titles
 
             md_filename = (str(pub_date) + "-" + url_slug + ".md").replace("--","-")
             html_filename = (str(pub_date) + "-" + url_slug).replace("--","-")
