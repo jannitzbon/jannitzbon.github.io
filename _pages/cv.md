@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-### Current position
+
+
+## Current position
 
 **Postdoctoral researcher** at the *[Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research](https://www.awi.de)* in Potsdam, Germany.
 
@@ -18,7 +20,7 @@ redirect_from:
 
 
 
-### Academic education
+## Academic education
 
 **Ph.D in Geography** from the *Humboldt-Universität zu Berlin*, Germany, 2020
 
@@ -34,7 +36,7 @@ redirect_from:
 
 
 
-### Stays abroad
+## Stays abroad
 
 - Guest researcher at the *Department of Geosciences, University of Oslo*, **Norway** (04/2019 - 07/2019)
 - Research intern at *[Bodeker Scientific](http://www.bodekerscientific.com/)* in Alexandra, **New Zealand** (08/2013 - 10/2013)
@@ -42,16 +44,16 @@ redirect_from:
 
 
 
-### Professional experience
+## Professional experience
 
-- Research assistant at the *Potsdam Institute for Climate Impact Research* (11/2015 - 12/2016)
+- Research assistant at the *[Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/en)* (11/2015 - 12/2016)
   - Conducted research on the stability of power grids published [here](https://doi.org/10.1088/1367-2630/aa6321)
 - Student assistant at the *University of Göttingen* (2012 - 2015)
 - Intern at *kappa optronics GmbH* in Gleichen, Germany (09/2012)
 
 
 
-### Skills
+## Skills
 
 * Languages
   * English (C1)
