@@ -1,10 +1,10 @@
 ---
 layout: archive
-header:
-  image: /images/image-alignment-1200x4002.jpg
 title: "Publications"
 permalink: /publications/
 author_profile: true
+header:
+  image: /images/header1.JPG
 ---
 
 {% if author.googlescholar %}
