@@ -116,9 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  links:
-    - label: "publons"
-    - url: "https://publons.com/researcher/3448968/jan-nitzbon/"
+  publons		   : "https://publons.com/researcher/3448968/jan-nitzbon/"
 
 
 # Reading Files
@@ -206,8 +204,6 @@ defaults:
       comments: true
       share: true
       related: true
-    header:
-      image: /images/image-alignment-1200x4002.jpg
   # _pages
   - scope:
       path: ""
@@ -215,6 +211,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+    header:
+      image: /images/image-alignment-1200x4002.jpg
   # _teaching
   - scope:
       path: ""
