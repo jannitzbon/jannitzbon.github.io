@@ -13,9 +13,9 @@ redirect_from:
 
 ## Current position
 
-**Postdoctoral researcher** at the *[Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research](https://www.awi.de)* in Potsdam, Germany.
+**Postdoctoral researcher** at *[Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research](https://www.awi.de)* in Potsdam, Germany.
 
-* Member of the BMBF-funded junior group [PermaRisk](https://www.awi.de/en/science/junior-groups/permarisk.html) led by Dr. Moritz Langer
+* Member of the BMBF-funded junior group [PermaRisk](https://www.awi.de/en/science/junior-groups/permarisk.html)
 * User and developer of the [CryoGrid](https://github.com/CryoGrid/CryoGrid) permafrost model
 
 
