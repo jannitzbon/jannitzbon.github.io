@@ -22,7 +22,7 @@ redirect_from:
 
 ## Academic education
 
-**Ph.D in Geography** from the *Humboldt-Universität zu Berlin*, Germany, 2020
+**Ph.D. in Geography** from the *Humboldt-Universität zu Berlin*, Germany, 2020
 
 * [Thesis](https://jannitzbon.github.io/files/dissertation_nitzbon_jan.pdf): Modelling the Evolution of Ice­-rich Permafrost Landscapes in Response to a Warming Climate
 * Grade: summa cum laude (with distinction)

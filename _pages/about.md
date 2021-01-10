@@ -9,3 +9,7 @@ redirect_from:
 ---
 
 This is Jan Nitzbon's personal website. It is currently under construction.
+
+
+
+truly fascinated by the changes in Earth's climate in the past, and deeply concerned about anticipated future climate change.

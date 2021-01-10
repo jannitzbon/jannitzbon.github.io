@@ -85,7 +85,7 @@ author:
   avatar           : "profile.png"
   bio              : "Earth system scientist with a passion for permafrost and the cryosphere."
   location         : "Potsdam, Germany"
-  employer         :
+  employer         : "Alfred Wegener Institute"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
@@ -211,8 +211,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-    header:
-      image: /images/image-alignment-1200x4002.jpg
   # _teaching
   - scope:
       path: ""
