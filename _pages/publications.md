@@ -13,7 +13,7 @@ author_profile: true
 
 
 
-### In review
+## In review
 
 Bodeker, G. E., **Nitzbon, J.**, Tradowsky, J. S., Kremser, S., Schwertheim, A., & Lewis, J. (2020). A Global Total Column Ozone Climate Data Record. *Earth System Science Data Discussions*, 1–33. [https://doi.org/10.5194/essd-2020-218](https://doi.org/10.5194/essd-2020-218)
 
@@ -27,7 +27,7 @@ Zweigel, R., Westermann, S., **Nitzbon, J.**, Langer, M., Boike, J., Etzelmülle
 
 
 
-### Published
+## Published
 
 ### 2020
 
@@ -45,6 +45,6 @@ Zweigel, R., Westermann, S., **Nitzbon, J.**, Langer, M., Boike, J., Etzelmülle
 
 ### 2017
 
-2) **Nitzbon, Jan**, Heitzig, J., & Parlitz, U. (2017). Sustainability, collapse and oscillations in a simple World-Earth model. *Environmental Research Letters*, *12*(7), 074020. [https://doi.org/10.1088/1748-9326/aa7581](https://doi.org/10.1088/1748-9326/aa7581)
+2) **Nitzbon, J.**, Heitzig, J., & Parlitz, U. (2017). Sustainability, collapse and oscillations in a simple World-Earth model. *Environmental Research Letters*, *12*(7), 074020. [https://doi.org/10.1088/1748-9326/aa7581](https://doi.org/10.1088/1748-9326/aa7581)
 
 1) **Nitzbon, J**., Schultz, P., Heitzig, J., Kurths, J., & Hellmann, F. (2017). Deciphering the imprint of topology on nonlinear dynamical network stability. *New Journal of Physics*, *19*(3), 033029. [https://doi.org/10.1088/1367-2630/aa6321](https://doi.org/10.1088/1367-2630/aa6321)

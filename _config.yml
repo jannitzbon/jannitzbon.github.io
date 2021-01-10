@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -48,6 +48,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+minimal_mistakes_skin: "dark" #  "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # SEO Related
 google_site_verification :
@@ -73,7 +74,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "false" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -115,6 +116,9 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  links:
+    - label: "publons"
+    - url: "https://publons.com/researcher/3448968/jan-nitzbon/"
 
 
 # Reading Files
@@ -202,6 +206,8 @@ defaults:
       comments: true
       share: true
       related: true
+    header:
+      image: /images/image-alignment-1200x4002.jpg
   # _pages
   - scope:
       path: ""
