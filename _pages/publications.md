@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 header:
   image: /images/header1.JPG
+  image_description: "A description of the image"
+  caption: "Kurungnakh Island, Lena River delta."
 ---
 
 {% if author.googlescholar %}
