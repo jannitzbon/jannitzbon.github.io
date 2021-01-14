@@ -48,7 +48,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-minimal_mistakes_skin: "dark" #  "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
 
 # SEO Related
 google_site_verification :
@@ -116,7 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  publons		   : "https://publons.com/researcher/3448968/jan-nitzbon/"
+#  publons		   : "https://publons.com/researcher/3448968/jan-nitzbon/"
 
 
 # Reading Files

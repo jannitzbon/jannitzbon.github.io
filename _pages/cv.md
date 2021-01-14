@@ -3,6 +3,9 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+header:
+  image: header2.JPG
+  caption: "Stolb, Lena River delta."
 redirect_from:
   - /resume
 ---
