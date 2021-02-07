@@ -36,7 +36,7 @@ Schneider von Deimling, T., Lee, H., Ingeman-Nielsen, T., Westermann, S., Romano
 
 ### 2021
 
-8) Zweigel, R., Westermann, S., **Nitzbon, J.**, Langer, M., Boike, J., Etzelmüller, B., & Vikhamar Schuler, T. (2021). Simulating snow redistribution and its effect on ground surface temperature at a high-Arctic site on Svalbard. *Journal of Geophysical Research: Earth Surface*. https://doi.org/10.1029/2020JF005673
+8) Zweigel, R., Westermann, S., **Nitzbon, J.**, Langer, M., Boike, J., Etzelmüller, B., & Vikhamar Schuler, T. (2021). Simulating snow redistribution and its effect on ground surface temperature at a high-Arctic site on Svalbard. *Journal of Geophysical Research: Earth Surface*. [https://doi.org/10.1029/2020JF005673](https://doi.org/10.1029/2020JF005673)
 
 ### 2020
 
