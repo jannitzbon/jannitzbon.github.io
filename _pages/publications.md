@@ -14,7 +14,7 @@ header:
 
 {% include base_path %}
 
-
+You can find up-to-date statistics on my publications and reviews on [my publons profile](https://publons.com/researcher/AAG-8085-2020/).
 
 ## In review
 
@@ -22,19 +22,21 @@ Bodeker, G. E., **Nitzbon, J.**, Tradowsky, J. S., Kremser, S., Schwertheim, A.,
 
 Martin, L. C. P., **Nitzbon, J.**, Scheer, J., Aas, K. S., Eiken, T., Langer, M., Filhol, S., Etzelmüller, B., & Westermann, S. (2020). Thermal erosion patterns of permafrost peat plateaus in northern Norway. *The Cryosphere Discussions*, 1–33. [https://doi.org/10.5194/tc-2020-338](https://doi.org/10.5194/tc-2020-338)
 
-**Nitzbon, J.**, Langer, M., Martin, L. C. P., Westermann, S., Schneider von Deimling, T., & Boike, J. (2020). Effects of multi-scale heterogeneity on the simulated evolution of ice-rich permafrost lowlands under a warming climate. *The Cryosphere Discussions*, 1–29. [https://doi.org/10.5194/tc-2020-137](https://doi.org/10.5194/tc-2020-137)
-
 Schneider von Deimling, T., Lee, H., Ingeman-Nielsen, T., Westermann, S., Romanovsky, V., Lamoureux, S., Walker, D. A., Chadburn, S., Cai, L., Trochim, E., **Nitzbon, J.**, Jacobi, S., & Langer, M. (2020). Consequences of permafrost degradation for Arctic infrastructure – bridging the model gap between regional and engineering scales. *The Cryosphere Discussions*, 1–31. [https://doi.org/10.5194/tc-2020-192](https://doi.org/10.5194/tc-2020-192)
 
 
 
 ## Accepted
 
-Zweigel, R., Westermann, S., **Nitzbon, J.**, Langer, M., Boike, J., Etzelmüller, B., & Vikhamar Schuler, T. (2020). Simulating snow redistribution and its effect on the ground thermal regime at a high-Arctic site on Svalbard. *Journal of Geophysical Research: Earth Surface*.
+**Nitzbon, J.**, Langer, M., Martin, L. C. P., Westermann, S., Schneider von Deimling, T., & Boike, J. (2020). Effects of multi-scale heterogeneity on the simulated evolution of ice-rich permafrost lowlands under a warming climate. *The Cryosphere Discussions*, 1–29. [https://doi.org/10.5194/tc-2020-137](https://doi.org/10.5194/tc-2020-137)
 
 
 
 ## Published
+
+### 2021
+
+8) Zweigel, R., Westermann, S., **Nitzbon, J.**, Langer, M., Boike, J., Etzelmüller, B., & Vikhamar Schuler, T. (2021). Simulating snow redistribution and its effect on ground surface temperature at a high-Arctic site on Svalbard. *Journal of Geophysical Research: Earth Surface*. https://doi.org/10.1029/2020JF005673
 
 ### 2020
 
