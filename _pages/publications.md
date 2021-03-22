@@ -32,7 +32,7 @@ Schneider von Deimling, T., Lee, H., Ingeman-Nielsen, T., Westermann, S., Romano
 
 ### 2021
 
-9) **Nitzbon, J.**, Langer, M., Martin, L. C. P., Westermann, S., Schneider von Deimling, T., & Boike, J. (2020). Effects of multi-scale heterogeneity on the simulated evolution of ice-rich permafrost lowlands under a warming climate. *The Cryosphere Discussions*, 1–29. [https://doi.org/10.5194/tc-2020-137](https://doi.org/10.5194/tc-2020-137)
+9) **Nitzbon, J.**, Langer, M., Martin, L. C. P., Westermann, S., Schneider von Deimling, T., & Boike, J. (2020). Effects of multi-scale heterogeneity on the simulated evolution of ice-rich permafrost lowlands under a warming climate. *The Cryosphere*, 15(3), 1399–1422. [https://doi.org/10.5194/tc-15-1399-2021](https://doi.org/10.5194/tc-15-1399-2021)
 
 8) Zweigel, R., Westermann, S., **Nitzbon, J.**, Langer, M., Boike, J., Etzelmüller, B., & Vikhamar Schuler, T. (2021). Simulating snow redistribution and its effect on ground surface temperature at a high-Arctic site on Svalbard. *Journal of Geophysical Research: Earth Surface*. [https://doi.org/10.1029/2020JF005673](https://doi.org/10.1029/2020JF005673)
 
@@ -44,7 +44,7 @@ Schneider von Deimling, T., Lee, H., Ingeman-Nielsen, T., Westermann, S., Romano
 
 6) **Nitzbon, J.**, Langer, M., Westermann, S., Martin, L., Aas, K. S., & Boike, J. (2019). Pathways of ice-wedge degradation in polygonal tundra under different hydrological conditions. *The Cryosphere*, *13*(4), 1089–1123. [https://doi.org/10.5194/tc-13-1089-2019](https://doi.org/10.5194/tc-13-1089-2019)
 
-5) Martin, L. C. P., **Nitzbon, J.**, Aas, K. S., Etzelmüller, B., Kristiansen, H., & Westermann, S. (2019). Stability Conditions of Peat Plateaus and Palsas in Northern Norway. *Journal of Geophysical Research: Earth Surface*, *124*, 705– 719. [https://doi.org/10.1029/2018JF004945](https://doi.org/10.1029/2018JF004945)
+5) Martin, L. C. P., **Nitzbon, J.**, Aas, K. S., Etzelmüller, B., Kristiansen, H., & Westermann, S. (2019). Stability Conditions of Peat Plateaus and Palsas in Northern Norway. *Journal of Geophysical Research: Earth Surface*, *124*, 705–719. [https://doi.org/10.1029/2018JF004945](https://doi.org/10.1029/2018JF004945)
 
 4) Boike, J., **Nitzbon, J.**, Anders, K., Grigoriev, M., Bolshiyanov, D., Langer, M., Lange, S., Bornemann, N., Morgenstern, A., Schreiber, P., Wille, C., Chadburn, S., Gouttevin, I., Burke, E., & Kutzbach, L. (2019). A 16-year record (2002–2017) of permafrost, active-layer, and meteorological conditions at the Samoylov Island Arctic permafrost research site, Lena River delta, northern Siberia: An opportunity to validate remote-sensing data and land surface, snow, and permafrost models. *Earth System Science Data*, *11*(1), 261–299. [https://doi.org/10.5194/essd-11-261-2019](https://doi.org/10.5194/essd-11-261-2019)
 
