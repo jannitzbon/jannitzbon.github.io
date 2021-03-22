@@ -33,9 +33,9 @@ redirect_from:
 - Implemented lateral processes in a numerical permafrost model
 - Participated in an expedition to the Siberian Arctic
 
-
-**Research Associate** (2015-2016)
+**Research Assistant** (2015-2016)
 *[Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de), Potsdam, Germany*
+
 - Investigated the stability of power grids using numerical models published [here](https://doi.org/10.1088/1367-2630/aa6321)
 - Analyzed nonlinear dynamics of a simple Earth system model published [here](https://doi.org/10.1088/1748-9326/aa7581)
 

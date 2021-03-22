@@ -28,15 +28,11 @@ Schneider von Deimling, T., Lee, H., Ingeman-Nielsen, T., Westermann, S., Romano
 
 
 
-## Accepted
-
-**Nitzbon, J.**, Langer, M., Martin, L. C. P., Westermann, S., Schneider von Deimling, T., & Boike, J. (2020). Effects of multi-scale heterogeneity on the simulated evolution of ice-rich permafrost lowlands under a warming climate. *The Cryosphere Discussions*, 1–29. [https://doi.org/10.5194/tc-2020-137](https://doi.org/10.5194/tc-2020-137)
-
-
-
 ## Published
 
 ### 2021
+
+9) **Nitzbon, J.**, Langer, M., Martin, L. C. P., Westermann, S., Schneider von Deimling, T., & Boike, J. (2020). Effects of multi-scale heterogeneity on the simulated evolution of ice-rich permafrost lowlands under a warming climate. *The Cryosphere Discussions*, 1–29. [https://doi.org/10.5194/tc-2020-137](https://doi.org/10.5194/tc-2020-137)
 
 8) Zweigel, R., Westermann, S., **Nitzbon, J.**, Langer, M., Boike, J., Etzelmüller, B., & Vikhamar Schuler, T. (2021). Simulating snow redistribution and its effect on ground surface temperature at a high-Arctic site on Svalbard. *Journal of Geophysical Research: Earth Surface*. [https://doi.org/10.1029/2020JF005673](https://doi.org/10.1029/2020JF005673)
 
