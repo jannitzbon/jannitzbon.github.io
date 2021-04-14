@@ -24,7 +24,7 @@ redirect_from:
 
 **Guest Researcher** (2019)
 *Department of Geosciences, University of Oslo, Norway*
-- 4-month stay fundegit d by the German Academic Exchange Service
+- 4-month stay funded by the German Academic Exchange Service
 
 
 **Doctoral Researcher** (2017 - 2020)
