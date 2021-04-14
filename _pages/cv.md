@@ -71,7 +71,7 @@ redirect_from:
 
 ## Awards and Grants
 
-- **Syvitski Student Modeler Award** from *[CSDMS](https.//csdms.colorado.edu)* (2019, 2nd prize)
+- **Syvitski Student Modeler Award** from *[CSDMS](https://csdms.colorado.edu)* (2019, 2nd prize)
 - **Dr. Berliner – Dr. Ungewitter Award** from the *Faculty of Physics, University of Göttingen*
 
 
