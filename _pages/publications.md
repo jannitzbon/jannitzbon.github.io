@@ -18,21 +18,17 @@ You can find up-to-date statistics on my publications and reviews on [my publons
 
 
 
-## In review
-
-Bodeker, G. E., **Nitzbon, J.**, Tradowsky, J. S., Kremser, S., Schwertheim, A., & Lewis, J. (2020). A Global Total Column Ozone Climate Data Record. *Earth System Science Data Discussions*. [https://doi.org/10.5194/essd-2020-218](https://doi.org/10.5194/essd-2020-218)
-
-
-
 ## Accepted
 
-Martin, L. C. P., **Nitzbon, J.**, Scheer, J., Aas, K. S., Eiken, T., Langer, M., Filhol, S., Etzelmüller, B., & Westermann, S. (2020). Thermal erosion patterns of permafrost peat plateaus in northern Norway. *The Cryosphere Discussions*. https://doi.org/10.5194/tc-15-2451-2021
+Bodeker, G. E., **Nitzbon, J.**, Tradowsky, J. S., Kremser, S., Schwertheim, A., & Lewis, J. (2020). A Global Total Column Ozone Climate Data Record. *Earth System Science Data Discussions*. [https://doi.org/10.5194/essd-2020-218](https://doi.org/10.5194/essd-2020-218)
 
 
 
 ## Published
 
 ### 2021
+
+11) Martin, L. C. P., **Nitzbon, J.**, Scheer, J., Aas, K. S., Eiken, T., Langer, M., Filhol, S., Etzelmüller, B., & Westermann, S. (2021). Lateral thermokarst patterns in permafrost peat plateaus in northern Norway. *The Cryosphere*, *15*(7), 3423–3442. https://doi.org/10.5194/tc-15-3423-2021
 
 10) Schneider von Deimling, T., Lee, H., Ingeman-Nielsen, T., Westermann, S., Romanovsky, V., Lamoureux, S., Walker, D. A., Chadburn, S., Cai, L., Trochim, E., **Nitzbon, J.**, Jacobi, S., & Langer, M. (2020). Consequences of permafrost degradation for Arctic infrastructure – bridging the model gap between regional and engineering scales. *The Cryosphere*, 15(5), 2451–2471. [https://doi.org/10.5194/tc-2020-192](https://doi.org/10.5194/tc-2020-192)
 
