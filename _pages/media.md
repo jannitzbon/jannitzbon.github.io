@@ -1,0 +1,21 @@
+---
+permalink: /
+title: "Media and Outreach"
+excerpt: "Media"
+author_profile: true
+header:
+  image: header1.JPG
+  caption: "Kurungnakh Island, Lena River delta."
+
+---
+
+Radio interview for rbb Wissenswerte.
+
+[Print article](https://www.tagblatt.de/Nachrichten/Es-taut-wie-Permafrostboeden-und-Klimawandel-zusammenhaengen-512114.html) with on permafrost thaw and its implications that appeared in *Südwestpresse, Schwäbisches Tagblatt*, and others.
+
+[Radio interview](https://share.deutschlandradio.de/dlf-audiothek-audio-teilen.html?audio_id=839885) with *DLF Nova* on the causes and implications of permafrost thaw in the Arctic (in German).
+
+[Online article](https://www.derstandard.de/story/2000117837993/permafrost-koennte-frueher-auftauen-als-bislang-angenommen) by *DerStandard* featuring our 2020 paper on the response of ice-rich permafrost to climate warming (in German).
+
+[Photo documentary](https://www.lemonde.fr/planete/visuel/2017/11/14/le-permafrost-l-autre-menace-climatique_5214735_3244.html) by *Le Monde* of an expedition to the Lena River delta in 2017 in which I participated (in French).
+

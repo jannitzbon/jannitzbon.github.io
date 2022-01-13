@@ -18,6 +18,7 @@ redirect_from:
 
 **Postdoctoral researcher** (since 2020)
 *[Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research](https://www.awi.de/en/), Potsdam, Germany*
+- Developing and implementing a permafrost module for the AWI-ESM
 - Investigating risks of permafrost thaw within the [PermaRisk](https://www.awi.de/en/science/junior-groups/permarisk.html) project
 - Developing and applying the [CryoGrid](https://github.com/CryoGrid/CryoGrid) permafrost model
 
@@ -71,6 +72,8 @@ redirect_from:
 
 ## Awards and Grants
 
+- **Potsdamer Nachwuschwissenschatspreis 2021** for an outstanding dissertation, awarded by the city of Potsdam
+- **Wladimir Köppen Award 2020** for an outstanding dissertation in the field of climate science, awarded by the *CLICCS* excellence cluster at the *University of Hamburg*
 - **Syvitski Student Modeler Award** from *[CSDMS](https://csdms.colorado.edu)* (2019, 2nd prize)
 - **Dr. Berliner – Dr. Ungewitter Award** from the *Faculty of Physics, University of Göttingen*
 

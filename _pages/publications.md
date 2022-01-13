@@ -18,15 +18,11 @@ You can find up-to-date statistics on my publications and reviews on [my publons
 
 
 
-## Accepted
-
-Bodeker, G. E., **Nitzbon, J.**, Tradowsky, J. S., Kremser, S., Schwertheim, A., & Lewis, J. (2020). A Global Total Column Ozone Climate Data Record. *Earth System Science Data Discussions*. [https://doi.org/10.5194/essd-2020-218](https://doi.org/10.5194/essd-2020-218)
-
-
-
 ## Published
 
 ### 2021
+
+12. Bodeker, G. E., **Nitzbon, J.**, Tradowsky, J. S., Kremser, S., Schwertheim, A., & Lewis, J. (2021). A global total column ozone climate data record. *Earth System Science Data*, *13*(8), 3885–3906. https://doi.org/10.5194/essd-13-3885-2021
 
 11) Martin, L. C. P., **Nitzbon, J.**, Scheer, J., Aas, K. S., Eiken, T., Langer, M., Filhol, S., Etzelmüller, B., & Westermann, S. (2021). Lateral thermokarst patterns in permafrost peat plateaus in northern Norway. *The Cryosphere*, *15*(7), 3423–3442. https://doi.org/10.5194/tc-15-3423-2021
 
