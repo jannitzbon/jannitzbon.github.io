@@ -1,13 +1,11 @@
 ---
 layout: archive
 title: "Media and Outreach"
-excerpt: "Media"
 permalink: /media/
 author_profile: true
 header:
   image: header2.JPG
   caption: "Stolb Island seen from Samoylov Island, Lena River delta."
-
 ---
 
 {% include base_path %}
