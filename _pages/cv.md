@@ -20,7 +20,7 @@ redirect_from:
 *[Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research](https://www.awi.de/en/), Potsdam, Germany*
 - Developing and implementing a permafrost module for the AWI-ESM
 - Investigating risks of permafrost thaw within the [PermaRisk](https://www.awi.de/en/science/junior-groups/permarisk.html) project
-- Developing and applying the [CryoGrid](https://github.com/CryoGrid/CryoGrid) permafrost model
+- Developing and applying the [CryoGrid](https://github.com/CryoGrid/CryoGrid) permafrost models
 
 
 **Guest Researcher** (2019)
