@@ -18,16 +18,13 @@ You can find up-to-date statistics on my publications and reviews on [my publons
 
 ## In review
 
-13) **Nitzbon, J.**, Gadylyaev, D., Schlüter, S., Köhne, J. M., Grosse, G., and Boike, J. (2022). Brief communication: Unravelling the composition and microstructure of a permafrost core using X-ray computed tomography, *The Cryosphere Discuss.*. https://doi.org/10.5194/tc-2022-79 
-
-
-## Published
+13) **Nitzbon, J.**, Gadylyaev, D., Schlüter, S., Köhne, J. M., Grosse, G., and Boike, J. (2022). Brief communication: Unravelling the composition and microstructure of a permafrost core using X-ray computed tomography, *The Cryosphere Discuss.* [https://doi.org/10.5194/tc-2022-79](https://doi.org/10.5194/tc-2022-79)
 
 ### 2021
 
-12) Bodeker, G. E., **Nitzbon, J.**, Tradowsky, J. S., Kremser, S., Schwertheim, A., & Lewis, J. (2021). A global total column ozone climate data record. *Earth System Science Data*, *13*(8), 3885–3906. https://doi.org/10.5194/essd-13-3885-2021
+12) Bodeker, G. E., **Nitzbon, J.**, Tradowsky, J. S., Kremser, S., Schwertheim, A., & Lewis, J. (2021). A global total column ozone climate data record. *Earth System Science Data*, *13*(8), 3885–3906. [https://doi.org/10.5194/essd-13-3885-2021](https://doi.org/10.5194/essd-13-3885-2021)
 
-11) Martin, L. C. P., **Nitzbon, J.**, Scheer, J., Aas, K. S., Eiken, T., Langer, M., Filhol, S., Etzelmüller, B., & Westermann, S. (2021). Lateral thermokarst patterns in permafrost peat plateaus in northern Norway. *The Cryosphere*, *15*(7), 3423–3442. https://doi.org/10.5194/tc-15-3423-2021
+11) Martin, L. C. P., **Nitzbon, J.**, Scheer, J., Aas, K. S., Eiken, T., Langer, M., Filhol, S., Etzelmüller, B., & Westermann, S. (2021). Lateral thermokarst patterns in permafrost peat plateaus in northern Norway. *The Cryosphere*, *15*(7), 3423–3442. [https://doi.org/10.5194/tc-15-3423-2021](https://doi.org/10.5194/tc-15-3423-2021)
 
 10) Schneider von Deimling, T., Lee, H., Ingeman-Nielsen, T., Westermann, S., Romanovsky, V., Lamoureux, S., Walker, D. A., Chadburn, S., Cai, L., Trochim, E., **Nitzbon, J.**, Jacobi, S., & Langer, M. (2020). Consequences of permafrost degradation for Arctic infrastructure – bridging the model gap between regional and engineering scales. *The Cryosphere*, 15(5), 2451–2471. [https://doi.org/10.5194/tc-2020-192](https://doi.org/10.5194/tc-2020-192)
 

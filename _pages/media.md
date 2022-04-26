@@ -5,10 +5,12 @@ excerpt: "Media"
 permalink: /media/
 author_profile: true
 header:
-  image: header1.JPG
-  caption: "Kurungnakh Island, Lena River delta."
+  image: header2.JPG
+  caption: "Stolb Island seen from Samoylov Island, Lena River delta."
 
 ---
+
+{% include base_path %}
 
 Radio interview for rbb Wissenswerte.
 
