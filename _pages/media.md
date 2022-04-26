@@ -1,7 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Media and Outreach"
 excerpt: "Media"
+permalink: /media/
 author_profile: true
 header:
   image: header1.JPG
