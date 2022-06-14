@@ -16,9 +16,15 @@ header:
 
 You can find up-to-date statistics on my publications and reviews on [my publons profile](https://publons.com/researcher/AAG-8085-2020/).
 
-## In review
+## In review / Preprints
 
-13) **Nitzbon, J.**, Gadylyaev, D., Schlüter, S., Köhne, J. M., Grosse, G., and Boike, J. (2022). Brief communication: Unravelling the composition and microstructure of a permafrost core using X-ray computed tomography, *The Cryosphere Discussions*. [https://doi.org/10.5194/tc-2022-79](https://doi.org/10.5194/tc-2022-79)
+16) **Nitzbon, J.**, Krinner, G., Schneider von Deimling, T., Werner, M., & Langer, M. (2022). Quantifying the Permafrost Heat Sink in Earth’s Climate System (2022). *Earth and Space Science Open Archive*. [https://doi.org/10.1002/essoar.10511600.1](https://doi.org/10.1002/essoar.10511600.1)
+
+15) Langer, M., **Nitzbon, J.**, Groenke, B., Assmann, L.-M., Schneider von Deimling, T., Stuenzi, S. M., & Westermann, S. (2022). The evolution of Arctic permafrost over the last three centuries. *EGUsphere*. [https://doi.org/10.5194/egusphere-2022-473](https://doi.org/10.5194/egusphere-2022-473)
+
+14) Westermann, S., Ingeman-Nielsen, T., Scheer, J., Aalstad, K., Aga, J., Chaudhary, N., Etzelmüller, B., Filhol, S., Kääb, A., Renette, C., Schmidt, L. S., Schuler, T. V., Zweigel, R. B., Martin, L., Morard, S., Ben-Asher, M., Angelopoulos, M., Boike, J., Groenke, B., Miesner, F., **Nitzbon, J.**, Overduin, P., Stuenzi, S. M., & Langer, M. (2022). The CryoGrid community model (version 1.0) – a multi-physics toolbox for climate-driven simulations in the terrestrial cryosphere. *Geoscientific Model Development Discussions*. [https://doi.org/10.5194/gmd-2022-127](https://doi.org/10.5194/gmd-2022-127)
+
+13) **Nitzbon, J.**, Gadylyaev, D., Schlüter, S., Köhne, J. M., Grosse, G., & Boike, J. (2022). Brief communication: Unravelling the composition and microstructure of a permafrost core using X-ray computed tomography, *The Cryosphere Discussions*. [https://doi.org/10.5194/tc-2022-79](https://doi.org/10.5194/tc-2022-79)
 
 ### 2021
 
