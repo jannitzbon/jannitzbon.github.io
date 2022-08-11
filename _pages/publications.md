@@ -18,6 +18,12 @@ You can find up-to-date statistics on my publications and reviews on [my publons
 
 ## In review / Preprints
 
+19) Cuesta-Valero, F. J., Beltrami, H., García-García, A., Krinner, G., Langer, M., MacDougall, A. H., **Nitzbon, J.**, Peng, J., von Schuckmann, K., Seneviratne, S. I., Smith, N., Thiery, W., Vanderkelen, I., & Wu, T. (2022). Continental heat storage: Contributions from ground, inland waters, and permafrost thawing. *Earth System Dynamics Discussions*, 1–33. [https://doi.org/10.5194/esd-2022-32](https://doi.org/10.5194/esd-2022-32)
+
+18) von Schuckmann, K., Minère, A., Gues, F., Cuesta-Valero, F. J., Kirchengast, G., Adusumilli, S., Straneo,… **Nitzbon, J.**,… Zemp, M. (2022). Heat stored in the Earth system 1960–2020: Where does the energy go? *Earth System Science Data Discussions*, 1–55. [https://doi.org/10.5194/essd-2022-239](https://doi.org/10.5194/essd-2022-239)
+
+17) Groenke, B., Langer, M., **Nitzbon, J.**, Westermann, S., Gallego, G., & Boike, J. (2022). Investigating the thermal state of permafrost with Bayesian inverse modeling of heat transfer. *The Cryosphere Discussions*, 1–44. [https://doi.org/10.5194/egusphere-2022-630](https://doi.org/10.5194/egusphere-2022-630)
+
 16) **Nitzbon, J.**, Krinner, G., Schneider von Deimling, T., Werner, M., & Langer, M. (2022). Quantifying the Permafrost Heat Sink in Earth’s Climate System (2022). *Earth and Space Science Open Archive*. [https://doi.org/10.1002/essoar.10511600.1](https://doi.org/10.1002/essoar.10511600.1)
 
 15) Langer, M., **Nitzbon, J.**, Groenke, B., Assmann, L.-M., Schneider von Deimling, T., Stuenzi, S. M., & Westermann, S. (2022). The evolution of Arctic permafrost over the last three centuries. *EGUsphere*. [https://doi.org/10.5194/egusphere-2022-473](https://doi.org/10.5194/egusphere-2022-473)
