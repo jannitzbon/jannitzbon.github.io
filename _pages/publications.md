@@ -18,19 +18,28 @@ You can find up-to-date statistics on my publications and reviews on [my publons
 
 ## In review / Preprints
 
-19) Cuesta-Valero, F. J., Beltrami, H., García-García, A., Krinner, G., Langer, M., MacDougall, A. H., **Nitzbon, J.**, Peng, J., von Schuckmann, K., Seneviratne, S. I., Smith, N., Thiery, W., Vanderkelen, I., & Wu, T. (2022). Continental heat storage: Contributions from ground, inland waters, and permafrost thawing. *Earth System Dynamics Discussions*, 1–33. [https://doi.org/10.5194/esd-2022-32](https://doi.org/10.5194/esd-2022-32)
+20) Cuesta-Valero, F. J., Beltrami, H., García-García, A., Krinner, G., Langer, M., MacDougall, A. H., **Nitzbon, J.**, Peng, J., von Schuckmann, K., Seneviratne, S. I., Smith, N., Thiery, W., Vanderkelen, I., & Wu, T. (2022). Continental heat storage: Contributions from ground, inland waters, and permafrost thawing. *Earth System Dynamics Discussions*, 1–33. [https://doi.org/10.5194/esd-2022-32](https://doi.org/10.5194/esd-2022-32)
 
-18) von Schuckmann, K., Minère, A., Gues, F., Cuesta-Valero, F. J., Kirchengast, G., Adusumilli, S., Straneo,… **Nitzbon, J.**,… Zemp, M. (2022). Heat stored in the Earth system 1960–2020: Where does the energy go? *Earth System Science Data Discussions*, 1–55. [https://doi.org/10.5194/essd-2022-239](https://doi.org/10.5194/essd-2022-239)
+19) von Schuckmann, K., Minère, A., Gues, F., Cuesta-Valero, F. J., Kirchengast, G., Adusumilli, S., Straneo,… **Nitzbon, J.**,… Zemp, M. (2022). Heat stored in the Earth system 1960–2020: Where does the energy go? *Earth System Science Data Discussions*, 1–55. [https://doi.org/10.5194/essd-2022-239](https://doi.org/10.5194/essd-2022-239)
 
-17) Groenke, B., Langer, M., **Nitzbon, J.**, Westermann, S., Gallego, G., & Boike, J. (2022). Investigating the thermal state of permafrost with Bayesian inverse modeling of heat transfer. *The Cryosphere Discussions*, 1–44. [https://doi.org/10.5194/egusphere-2022-630](https://doi.org/10.5194/egusphere-2022-630)
+18) Groenke, B., Langer, M., **Nitzbon, J.**, Westermann, S., Gallego, G., & Boike, J. (2022). Investigating the thermal state of permafrost with Bayesian inverse modeling of heat transfer. *The Cryosphere Discussions*, 1–44. [https://doi.org/10.5194/egusphere-2022-630](https://doi.org/10.5194/egusphere-2022-630)
 
-16) **Nitzbon, J.**, Krinner, G., Schneider von Deimling, T., Werner, M., & Langer, M. (2022). Quantifying the Permafrost Heat Sink in Earth’s Climate System (2022). *Earth and Space Science Open Archive*. [https://doi.org/10.1002/essoar.10511600.1](https://doi.org/10.1002/essoar.10511600.1)
+17) **Nitzbon, J.**, Krinner, G., Schneider von Deimling, T., Werner, M., & Langer, M. (2022). Quantifying the Permafrost Heat Sink in Earth’s Climate System (2022). *Earth and Space Science Open Archive*. [https://doi.org/10.1002/essoar.10511600.1](https://doi.org/10.1002/essoar.10511600.1)
 
-15) Langer, M., **Nitzbon, J.**, Groenke, B., Assmann, L.-M., Schneider von Deimling, T., Stuenzi, S. M., & Westermann, S. (2022). The evolution of Arctic permafrost over the last three centuries. *EGUsphere*. [https://doi.org/10.5194/egusphere-2022-473](https://doi.org/10.5194/egusphere-2022-473)
+16) Langer, M., **Nitzbon, J.**, Groenke, B., Assmann, L.-M., Schneider von Deimling, T., Stuenzi, S. M., & Westermann, S. (2022). The evolution of Arctic permafrost over the last three centuries. *EGUsphere*. [https://doi.org/10.5194/egusphere-2022-473](https://doi.org/10.5194/egusphere-2022-473)
 
-14) Westermann, S., Ingeman-Nielsen, T., Scheer, J., Aalstad, K., Aga, J., Chaudhary, N., Etzelmüller, B., Filhol, S., Kääb, A., Renette, C., Schmidt, L. S., Schuler, T. V., Zweigel, R. B., Martin, L., Morard, S., Ben-Asher, M., Angelopoulos, M., Boike, J., Groenke, B., Miesner, F., **Nitzbon, J.**, Overduin, P., Stuenzi, S. M., & Langer, M. (2022). The CryoGrid community model (version 1.0) – a multi-physics toolbox for climate-driven simulations in the terrestrial cryosphere. *Geoscientific Model Development Discussions*. [https://doi.org/10.5194/gmd-2022-127](https://doi.org/10.5194/gmd-2022-127)
+15) Westermann, S., Ingeman-Nielsen, T., Scheer, J., Aalstad, K., Aga, J., Chaudhary, N., Etzelmüller, B., Filhol, S., Kääb, A., Renette, C., Schmidt, L. S., Schuler, T. V., Zweigel, R. B., Martin, L., Morard, S., Ben-Asher, M., Angelopoulos, M., Boike, J., Groenke, B., Miesner, F., **Nitzbon, J.**, Overduin, P., Stuenzi, S. M., & Langer, M. (2022). The CryoGrid community model (version 1.0) – a multi-physics toolbox for climate-driven simulations in the terrestrial cryosphere. *Geoscientific Model Development Discussions*. [https://doi.org/10.5194/gmd-2022-127](https://doi.org/10.5194/gmd-2022-127)
 
-13) **Nitzbon, J.**, Gadylyaev, D., Schlüter, S., Köhne, J. M., Grosse, G., & Boike, J. (2022). Brief communication: Unravelling the composition and microstructure of a permafrost core using X-ray computed tomography, *The Cryosphere Discussions*. [https://doi.org/10.5194/tc-2022-79](https://doi.org/10.5194/tc-2022-79)
+
+## Published
+
+### 2022
+
+14) Strauss, J., Biasi, C., Sanders, T., Abbott, B. W., von Deimling, T. S., Voigt, C., Winkel, M., Marushchak, M. E., Kou, D., Fuchs, M., Horn, M. A., Jongejans, L. L., Liebner, S., **Nitzbon, J.**, Schirrmeister, L., Walter Anthony, K., Yang, Y., Zubrzycki, S., Laboor, S., … Grosse, G. (2022). A globally relevant stock of soil nitrogen in the Yedoma permafrost domain. *Nature Communications*, 13, Article 1. [https://doi.org/10.1038/s41467-022-33794-9](https://doi.org/10.1038/s41467-022-33794-9)
+
+
+13) **Nitzbon, J.**, Gadylyaev, D., Schlüter, S., Köhne, J. M., Grosse, G., & Boike, J. (2022). Brief communication: Unravelling the composition and microstructure of a permafrost core using X-ray computed tomography. *The Cryosphere*, 16(9), 3507–3515. [https://doi.org/10.5194/tc-16-3507-2022](https://doi.org/10.5194/tc-16-3507-2022)
+
 
 ### 2021
 
