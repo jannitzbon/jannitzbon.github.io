@@ -16,8 +16,6 @@ header:
 
 ## In review / Preprints
 
-**Nitzbon, J.**, Krinner, G., Schneider von Deimling, T., Werner, M., & Langer, M. (2022). Quantifying the Permafrost Heat Sink in Earth’s Climate System (2022). *Earth and Space Science Open Archive*. [https://doi.org/10.1002/essoar.10511600.1](https://doi.org/10.1002/essoar.10511600.1)
-
 Groenke, B., Langer, M., **Nitzbon, J.**, Westermann, S., Gallego, G., & Boike, J. (2022). Investigating the thermal state of permafrost with Bayesian inverse modeling of heat transfer. *EGUsphere*. [https://doi.org/10.5194/egusphere-2022-630](https://doi.org/10.5194/egusphere-2022-630)
 
 Langer, M., **Nitzbon, J.**, Groenke, B., Assmann, L.-M., Schneider von Deimling, T., Stuenzi, S. M., & Westermann, S. (2022). The evolution of Arctic permafrost over the last three centuries. *EGUsphere*. [https://doi.org/10.5194/egusphere-2022-473](https://doi.org/10.5194/egusphere-2022-473)
@@ -25,6 +23,9 @@ Langer, M., **Nitzbon, J.**, Groenke, B., Assmann, L.-M., Schneider von Deimling
 ## Published
 
 ### 2023
+
+18) **Nitzbon, J.**, Krinner, G., Schneider von Deimling, T., Werner, M., & Langer, M. (2023). First Quantification of the Permafrost Heat Sink in the Earth’s Climate System (2022). *Geophysical Research Letters*. [https://doi.org/10.1029/2022GL102053](https://doi.org/10.1029/2022GL102053)
+
 
 17) Cuesta-Valero, F. J., Beltrami, H., García-García, A., Krinner, G., Langer, M., MacDougall, A. H., **Nitzbon, J.**, Peng, J., von Schuckmann, K., Seneviratne, S. I., Thiery, W., Vanderkelen, I., & Wu, T. (2023). Continental heat storage: Contributions from the ground, inland waters, and permafrost thawing. *Earth System Dynamics*, *14*(3), 609 627. [https://doi.org/10.5194/esd-14-609-2023](https://doi.org/10.5194/esd-14-609-2023)
 
