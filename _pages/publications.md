@@ -16,13 +16,20 @@ header:
 
 ## In review / Preprints
 
-Groenke, B., Langer, M., **Nitzbon, J.**, Westermann, S., Gallego, G., & Boike, J. (2022). Investigating the thermal state of permafrost with Bayesian inverse modeling of heat transfer. *EGUsphere*. [https://doi.org/10.5194/egusphere-2022-630](https://doi.org/10.5194/egusphere-2022-630)
+**Nitzbon, J.**, Schneider von Deimling, T., Aliyeva, M., Chadburn, S. E., Grosse, G., Laboor, S., Lee, H., Lohmann, G., Steinert, N., Stuenzi, S., Werner, M., Westermann, S., & Langer, M. (2023). No respite from permafrost-thaw impacts in absence of a global tipping point. [https://eartharxiv.org/repository/view/5986/](https://eartharxiv.org/repository/view/5986/)
 
-Langer, M., **Nitzbon, J.**, Groenke, B., Assmann, L.-M., Schneider von Deimling, T., Stuenzi, S. M., & Westermann, S. (2022). The evolution of Arctic permafrost over the last three centuries. *EGUsphere*. [https://doi.org/10.5194/egusphere-2022-473](https://doi.org/10.5194/egusphere-2022-473)
 
 ## Published
 
+### 2024
+
+20) Langer, M., **Nitzbon, J.**, Groenke, B., Assmann, L.-M., Schneider von Deimling, T., Stuenzi, S. M., & Westermann, S. (2024). The evolution of Arctic permafrost over the last 3 centuries from ensemble simulations with the CryoGridLite permafrost model. *The Cryosphere*, 18(1), 363–385. [https://doi.org/10.5194/tc-18-363-2024](https://doi.org/10.5194/tc-18-363-2024)
+
+
 ### 2023
+
+19) Groenke, B., Langer, M., **Nitzbon, J.**, Westermann, S., Gallego, G., & Boike, J. (2023). Investigating the thermal state of permafrost with Bayesian inverse modeling of heat transfer. *The Cryosphere*, 17(8), 3505–3533. [https://doi.org/10.5194/tc-17-3505-2023](https://doi.org/10.5194/tc-17-3505-2023)
+
 
 18) **Nitzbon, J.**, Krinner, G., Schneider von Deimling, T., Werner, M., & Langer, M. (2023). First Quantification of the Permafrost Heat Sink in the Earth’s Climate System (2022). *Geophysical Research Letters*. [https://doi.org/10.1029/2022GL102053](https://doi.org/10.1029/2022GL102053)
 

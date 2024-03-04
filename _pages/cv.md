@@ -16,10 +16,17 @@ redirect_from:
 
 ## Scientific Positions and Experiences
 
-**Postdoctoral researcher** (since 2020)
+**Postdoctoral researcher** (since 2022)
+*[Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research](https://www.awi.de/en/), Bremerhaven, Germany*
+- Project PERMICE
+- Developing and implementing a permafrost module for the Earth system model AWI-ESM based on [CryoGrid](https://github.com/CryoGrid/CryoGrid)
+- Investigating permafrost conditions during cold and warm climates of the past
+
+
+**Postdoctoral researcher** (2020-2022)
 *[Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research](https://www.awi.de/en/), Potsdam, Germany*
-- Developing and implementing a permafrost module for the AWI-ESM
-- Investigating risks of permafrost thaw within the [PermaRisk](https://www.awi.de/en/science/junior-groups/permarisk.html) project
+- Project [PermaRisk](https://www.awi.de/en/science/junior-groups/permarisk.html)
+- Investigating risks of permafrost thaw under future climate change scenarios
 - Developing and applying the [CryoGrid](https://github.com/CryoGrid/CryoGrid) permafrost models
 
 
