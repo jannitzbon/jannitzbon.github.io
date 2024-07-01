@@ -10,6 +10,8 @@ header:
 
 {% include base_path %}
 
+Various online and print articles featuring our 2024 paper on tipping points related to permafrost thaw, e.g. in the German [Süddeutsche Zeitung](https://www.sueddeutsche.de/wissen/klimawandel-permafrost-awi-kipppunkt-lux.9xGyQugsbfWuj8jZdsryWP?reduced=true), the French [Le Figaro](https://www.lefigaro.fr/sciences/le-degel-du-permafrost-bombe-a-retardement-climatique-ou-phenomene-progressif-20240611), and others.
+
 Radio interview for rbb Wissenswerte.
 
 [Print article](https://www.tagblatt.de/Nachrichten/Es-taut-wie-Permafrostboeden-und-Klimawandel-zusammenhaengen-512114.html) with on permafrost thaw and its implications that appeared in *Südwestpresse, Schwäbisches Tagblatt*, and others.

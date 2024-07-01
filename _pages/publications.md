@@ -16,12 +16,12 @@ header:
 
 ## In review / Preprints
 
-**Nitzbon, J.**, Schneider von Deimling, T., Aliyeva, M., Chadburn, S. E., Grosse, G., Laboor, S., Lee, H., Lohmann, G., Steinert, N., Stuenzi, S., Werner, M., Westermann, S., & Langer, M. (2023). No respite from permafrost-thaw impacts in absence of a global tipping point. [https://eartharxiv.org/repository/view/5986/](https://eartharxiv.org/repository/view/5986/)
-
 
 ## Published
 
 ### 2024
+
+21) **Nitzbon, J., Schneider von Deimling, T., Aliyeva, M., Chadburn, S. E., Grosse, G., Laboor, S., Lee, H., Lohmann, G., Steinert, N. J., Stuenzi, S. M., Werner, M., Westermann, S., & Langer, M. (2024). No respite from permafrost-thaw impacts in the absence of a global tipping point. *Nature Climate Change*, 14(6), 573–585. [https://doi.org/10.1038/s41558-024-02011-4](https://doi.org/10.1038/s41558-024-02011-4)
 
 20) Langer, M., **Nitzbon, J.**, Groenke, B., Assmann, L.-M., Schneider von Deimling, T., Stuenzi, S. M., & Westermann, S. (2024). The evolution of Arctic permafrost over the last 3 centuries from ensemble simulations with the CryoGridLite permafrost model. *The Cryosphere*, 18(1), 363–385. [https://doi.org/10.5194/tc-18-363-2024](https://doi.org/10.5194/tc-18-363-2024)
 
@@ -30,9 +30,7 @@ header:
 
 19) Groenke, B., Langer, M., **Nitzbon, J.**, Westermann, S., Gallego, G., & Boike, J. (2023). Investigating the thermal state of permafrost with Bayesian inverse modeling of heat transfer. *The Cryosphere*, 17(8), 3505–3533. [https://doi.org/10.5194/tc-17-3505-2023](https://doi.org/10.5194/tc-17-3505-2023)
 
-
 18) **Nitzbon, J.**, Krinner, G., Schneider von Deimling, T., Werner, M., & Langer, M. (2023). First Quantification of the Permafrost Heat Sink in the Earth’s Climate System (2022). *Geophysical Research Letters*. [https://doi.org/10.1029/2022GL102053](https://doi.org/10.1029/2022GL102053)
-
 
 17) Cuesta-Valero, F. J., Beltrami, H., García-García, A., Krinner, G., Langer, M., MacDougall, A. H., **Nitzbon, J.**, Peng, J., von Schuckmann, K., Seneviratne, S. I., Thiery, W., Vanderkelen, I., & Wu, T. (2023). Continental heat storage: Contributions from the ground, inland waters, and permafrost thawing. *Earth System Dynamics*, *14*(3), 609 627. [https://doi.org/10.5194/esd-14-609-2023](https://doi.org/10.5194/esd-14-609-2023)
 
