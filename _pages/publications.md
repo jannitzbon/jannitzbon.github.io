@@ -16,11 +16,11 @@ header:
 
 ## In review / preprints / in press
 
-22) Walter Anthony, K. M., P. Anthony, N. Hasson, C. Edgar, O. Sivan, E. Eliani-Russak, O. Bergman, B. J. Minsley, S. R. James, N. J. Pastick, A. Kholodov, S. Zimov, E. Euskirchen, M. S. Bret-Harte, G. Grosse, M. Langer, **J. Nitzbon**. (2024). Upland Yedoma taliks are an unpredicted source of atmospheric methane. *Nature Communications*. Accepted.
-
 ## Published
 
 ### 2024
+
+Walter Anthony, K. M., Anthony, P., Hasson, N., Edgar, C., Sivan, O., Eliani-Russak, E., Bergman, O., Minsley, B. J., James, S. R., Pastick, N. J., Kholodov, A., Zimov, S., Euskirchen, E., Bret-Harte, M. S., Grosse, G., Langer, M., & **Nitzbon, J.** (2024). Upland Yedoma taliks are an unpredicted source of atmospheric methane. *Nature Communications*, 15(1), 6056. [https://doi.org/10.1038/s41467-024-50346-5](https://doi.org/10.1038/s41467-024-50346-5)
 
 21) **Nitzbon, J.**, Schneider von Deimling, T., Aliyeva, M., Chadburn, S. E., Grosse, G., Laboor, S., Lee, H., Lohmann, G., Steinert, N. J., Stuenzi, S. M., Werner, M., Westermann, S., & Langer, M. (2024). No respite from permafrost-thaw impacts in the absence of a global tipping point. *Nature Climate Change*, 14(6), 573–585. [https://doi.org/10.1038/s41558-024-02011-4](https://doi.org/10.1038/s41558-024-02011-4)
 
